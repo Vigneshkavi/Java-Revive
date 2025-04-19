@@ -2,12 +2,14 @@ package org.lang;
 
 public class StateDetails {
 	
+//	Child Class
+	
 	private void southIndia() {
 		System.out.println("Tamilnadu: South India");
 	}
 	
 	private void northIndia() {
-		System.out.println("Delhi: North India");
+		System.out.println("Delhi: North Indiaa");
 	}
 	
 	public static void main(String[] args) {

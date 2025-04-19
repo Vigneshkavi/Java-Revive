@@ -2,6 +2,8 @@ package org.lang;
 
 public class LanguageInfo {
 	
+//	Parent Class
+	
 	public void tamilLanguage() {
 		System.out.println("First Language: Tamil");
 	}
