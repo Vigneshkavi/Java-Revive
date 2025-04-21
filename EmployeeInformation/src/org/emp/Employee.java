@@ -1,5 +1,7 @@
 package org.emp;
 
+//Child Class
+
 import org.client.Client;
 import org.company.Company;
 import org.project.Project;

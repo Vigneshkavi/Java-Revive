@@ -1,5 +1,7 @@
 package org.network;
 
+//Parent Class
+
 public class Lan {
 	
 	public void lanName() {

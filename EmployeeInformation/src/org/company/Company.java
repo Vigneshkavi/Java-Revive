@@ -1,5 +1,7 @@
 package org.company;
 
+//Parent class
+
 public class Company {
 	
 	public void companyName() {

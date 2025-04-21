@@ -1,5 +1,7 @@
 package org.water;
 
+//Parent Class
+
 public class Water {
 	
 	public void boat() {

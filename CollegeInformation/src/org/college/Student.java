@@ -1,5 +1,7 @@
 package org.college;
 
+//Parent Class
+
 public class Student {
 	
 	public void studentName() {

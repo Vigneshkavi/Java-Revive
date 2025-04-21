@@ -1,5 +1,7 @@
 package org.network;
 
+//Child Class
+
 public class Wifi {
 	
 	private void wifiName() {
